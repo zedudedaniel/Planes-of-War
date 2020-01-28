@@ -1,0 +1,4 @@
+[autorun]
+open="PlanesOfWar.exe"
+icon=Resources/Icon.ico
+action=Planes of War
